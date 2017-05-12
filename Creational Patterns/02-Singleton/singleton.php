@@ -7,7 +7,7 @@
 final class ProductDb
 {
     private $db = null;
-    public static $instance = null;
+    private static $instance = null;
 
     public static function getInstance()
     {
