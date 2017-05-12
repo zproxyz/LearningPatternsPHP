@@ -40,3 +40,4 @@ jspm_packages
 .idea/
 /gulpfile.js
 /package.json
+vendor/
