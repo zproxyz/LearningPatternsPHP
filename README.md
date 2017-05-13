@@ -6,3 +6,4 @@
 1. Adapter
 2. Composite
 3. Decorator
+4. Facade
