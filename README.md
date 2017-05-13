@@ -5,3 +5,4 @@
 ## Structural Patterns
 1. Adapter
 2. Composite
+3. Decorator
