@@ -7,3 +7,5 @@
 2. Composite
 3. Decorator
 4. Facade
+## Behavior Patterns
+1. Chain of responsibility
