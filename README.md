@@ -9,3 +9,4 @@
 4. Facade
 ## Behavior Patterns
 1. Chain of responsibility
+2. Command
