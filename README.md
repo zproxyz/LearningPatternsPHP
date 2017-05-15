@@ -10,3 +10,4 @@
 ## Behavior Patterns
 1. Chain of responsibility
 2. Command
+3. Observer
